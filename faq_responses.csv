@@ -1,0 +1,25 @@
+keywords,response
+pricing;price;cost;fees;how much,We keep it simple: free for demos and custom quotes for production.
+features;what can you do;capabilities;functionality,"Core features: instant responses, lead capture, and FAQ automation."
+trial;free trial;demo access,"You can try the demo instantly. For a full trial, drop your email and we’ll set it up."
+support;helpdesk;contact support,"We usually reply within 1 business day. If it's urgent, say 'urgent' here."
+urgent;priority;asap,Got it—marking this as high priority. A teammate will reach out right away.
+email;contact;reach you,You can reach us at demo@example.com. Want me to collect your email?
+book;book a demo;schedule;calendar,I can book a quick call or send a demo link—what's your email?
+integration;integrations;api;webhook,We support common integrations via REST API and webhooks.
+security;encrypt;encryption;gdpr;hipaa,"We follow strong security best practices: encryption in transit/at rest, role-based access, and audit logs."
+privacy;data policy;pii,We only store what’s needed to serve your chat. You can request deletion anytime.
+location;where are you based;office,"We’re based in Madison, Wisconsin — but serve clients anywhere!"
+hours;business hours;open;closing,"We’re available Monday–Friday, 9 AM to 6 PM CST."
+refund;refunds;money back,"We offer a no-risk trial. For refunds, reach out and we’ll make it right."
+discount;student discount;nonprofit,We offer discounts for students and nonprofits—ask us for details!
+onboarding;setup;get started,"Onboarding takes ~15 minutes: install, connect FAQs, and you're live."
+customization;brand;theme;styling,"You can customize colors, logo, and tone to match your brand."
+analytics;metrics;dashboard;reporting,"You’ll see message volume, response times, and conversion metrics in the dashboard."
+sla;uptime;status;downtime,Our uptime target is 99.9%. Status page available on request.
+languages;multilingual;international,We support multiple languages with automatic detection.
+mobile;ios;android,Works great on mobile browsers. Native apps are on our roadmap.
+hello;hi;hey;good morning;good afternoon,Hey there! Tell me about your project—what are you hoping to achieve?
+thanks;thank you;appreciate it,You got it! Anything else I can help with?
+bye;goodbye;see you,"Catch you later! If you need anything, just say 'demo' and I’ll set it up."
+name;who are you;what is your name,"I’m your friendly demo bot. I help with features, pricing, and getting you a demo."
