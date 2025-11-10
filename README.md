@@ -22,13 +22,3 @@ Click below to run the notebook directly in your browser — no installation nee
 | **chatbot_questions_cheatsheet.pdf** | Printable question reference |
 | **chat_log.csv** | Auto-generated conversation logs |
 | **requirements.txt** | Binder environment dependencies |
-
----
-
-## 💻 Run Locally
-
-```bash
-git clone https://github.com/felixcamarillo68-ux/Live-Chat-Bot-Demo.git
-cd Live-Chat-Bot-Demo
-pip install -r requirements.txt
-voila Livechatpro.ipynb --theme=dark
